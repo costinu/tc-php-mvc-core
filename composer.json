@@ -1,9 +1,13 @@
 {
-    "name": "thecodeholic/php-mvc-core",
+    "name": "costinu/php-mvc-core",
     "authors": [
         {
             "name": "Zura Sekhniashvili",
             "email": "zurasekhniashvili@gmail.com"
+        },
+        {
+            "name": "Costin Urse",
+            "email": "costinurse@gmail.com"
         }
     ],
     "require": {},
